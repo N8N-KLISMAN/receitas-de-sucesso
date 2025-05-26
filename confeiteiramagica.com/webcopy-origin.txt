@@ -1,0 +1,56 @@
+Uri: https://confeiteiramagica.com/cursocones/inicio/
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\cursocones\inicio\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap);*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins,'Segoe UI',Tahoma,Geneva,Verdana,sans-serif}body{background-color:
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\s\poppins\v23\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://i.postimg.cc/1X5D9G3x/CONES-SEM-MIST-RIO1.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\1X5D9G3x\CONES-SEM-MIST-RIO1.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/cJdn07Hs/CONFEITEIRA-EXPERT.png
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\cJdn07Hs\CONFEITEIRA-EXPERT.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/FHsp47f1/DIREITO.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\FHsp47f1\DIREITO.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/g0F6Lk5M/CONFEITEIRA-DE-SUCESSO7-QQQQ.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\g0F6Lk5M\CONFEITEIRA-DE-SUCESSO7-QQQQ.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/mrVKzKnn/DSSSSSSSSSSSSSSSSSS.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\mrVKzKnn\DSSSSSSSSSSSSSSSSSS.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/QCrxb011/CONFEITEIRA-DE-SUROSAAAAA.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\QCrxb011\CONFEITEIRA-DE-SUROSAAAAA.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/Wbqwt77j/RECEITAS-LUCRATVAS.jpg
+File Name: C:\Downloaded Web Sites\confeiteiramagica.com\Wbqwt77j\RECEITAS-LUCRATVAS.jpg
+Content Type: image/jpeg
+
